@@ -1,5 +1,5 @@
 # packer-ubuntu
-## Use packer and vagrant to create ubuntu boxes
+Use packer and vagrant to create ubuntu boxes
 
 ## Usage:
 ```
